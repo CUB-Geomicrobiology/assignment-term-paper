@@ -1,6 +1,6 @@
 # Title
 
-> Note: this is just a skeleton for the term paper in markdown. Feel free to keep or discard any part of this structure.
+> Note: this is just a skeleton for the term paper in markdown. Discard any part that doesn't fit the structure you want to use.
 
 ## Heading
 
