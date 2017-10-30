@@ -49,6 +49,6 @@ Category                 | Criteria                                             
 -------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|------|------
 Substance                | Context well developed? information/data used appropriately & communicated clearly? interesting & thoughtful discussion of future directions? | 40%  |
 Figure                   | Illustrates an important point? well integrated with the writing?                                                                             | 20%  |
-Organization & Coherence | Logically structured? ideas build on each other? written in own words? flows smoothly with transitional sentences?                            | 15%  |
-References & Mechanics   | Sufficient # of sources? sources used appropriately & ethically? almost free of spelling, punctuation & grammatical errors?                   | 15%  |
+Organization & Coherence | Logically structured? ideas build on each other? written in own words? flows smoothly with transitional sentences?                            | 20%  |
+References & Mechanics   | Sufficient # of sources? sources used appropriately & ethically? almost free of spelling, punctuation & grammatical errors?                   | 20%  |
 **Overall**              |                                                                                                                                               | 100% |
